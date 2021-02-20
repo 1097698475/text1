@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\vs location\vs new project\project2\project2\源.cpp(21): warning C4476: "printf": 格式说明符中的类型字段字符“ ”未知
+d:\vs location\vs new project\project2\project2\源.cpp(26): warning C4476: "printf": 格式说明符中的类型字段字符“ ”未知
+  Project2.vcxproj -> D:\vs location\vs new project\Project2\Debug\Project2.exe
