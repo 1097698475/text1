@@ -1,0 +1,4 @@
+﻿  text16.c
+d:\vs location\vs new project\project16\project16\text16.c(38): warning C4013: “srand”未定义；假设外部返回 int
+d:\vs location\vs new project\project16\project16\text16.c(38): warning C4013: “time”未定义；假设外部返回 int
+  Project16.vcxproj -> D:\vs location\vs new project\Project16\Debug\Project16.exe
