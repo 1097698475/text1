@@ -1,0 +1,8 @@
+﻿  text19.c
+d:\vs location\vs new project\project19\project19\text19.c(14): warning C4013: “gets”未定义；假设外部返回 int
+d:\vs location\vs new project\project19\project19\text19.c(16): warning C4133: “函数”: 从“int [50]”到“const char *”的类型不兼容
+d:\vs location\vs new project\project19\project19\text19.c(19): warning C4133: “函数”: 从“int [50]”到“const char *”的类型不兼容
+d:\vs location\vs new project\project19\project19\text19.c(19): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs location\vs new project\project19\project19\text19.c(21): warning C4133: “函数”: 从“int [50]”到“const char *”的类型不兼容
+d:\vs location\vs new project\project19\project19\text19.c(25): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  Project19.vcxproj -> D:\vs location\vs new project\Project19\Debug\Project19.exe

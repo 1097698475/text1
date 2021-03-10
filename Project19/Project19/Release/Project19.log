@@ -1,0 +1,7 @@
+﻿  text19.c
+d:\vs location\vs new project\project19\project19\text19.c(13): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\vs location\vs new project\project19\project19\text19.c(13): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  正在生成代码
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project19.vcxproj -> D:\vs location\vs new project\Project19\Release\Project19.exe
