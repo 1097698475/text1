@@ -1,0 +1,29 @@
+﻿  text20.c
+d:\vs location\vs new project\project20\project20\text20.c(431): warning C4101: “common_guess”: 未引用的局部变量
+d:\vs location\vs new project\project20\project20\text20.c(529): error C2371: “makeclear”: 重定义；不同的基类型
+  d:\vs location\vs new project\project20\project20\text20.c(315): note: 参见“makeclear”的声明
+d:\vs location\vs new project\project20\project20\text20.c(613): error C2198: “makeclear”: 用于调用的参数太少
+d:\vs location\vs new project\project20\project20\text20.c(613): error C2120: 对于所有类型“void”非法
+d:\vs location\vs new project\project20\project20\text20.c(684): error C2059: 语法错误:“类型”
+d:\vs location\vs new project\project20\project20\text20.c(789): error C2143: 语法错误: 缺少“]”(在“类型”的前面)
+d:\vs location\vs new project\project20\project20\text20.c(789): error C2133: “group”: 未知的大小
+d:\vs location\vs new project\project20\project20\text20.c(789): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+d:\vs location\vs new project\project20\project20\text20.c(789): error C2059: 语法错误:“常数”
+d:\vs location\vs new project\project20\project20\text20.c(790): error C2143: 语法错误: 缺少“]”(在“类型”的前面)
+d:\vs location\vs new project\project20\project20\text20.c(790): error C2133: “groupsucceed”: 未知的大小
+d:\vs location\vs new project\project20\project20\text20.c(790): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+d:\vs location\vs new project\project20\project20\text20.c(790): error C2059: 语法错误:“常数”
+d:\vs location\vs new project\project20\project20\text20.c(791): error C2143: 语法错误: 缺少“]”(在“类型”的前面)
+d:\vs location\vs new project\project20\project20\text20.c(791): error C2133: “grouptime”: 未知的大小
+d:\vs location\vs new project\project20\project20\text20.c(791): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+d:\vs location\vs new project\project20\project20\text20.c(791): error C2059: 语法错误:“常数”
+d:\vs location\vs new project\project20\project20\text20.c(792): error C2143: 语法错误: 缺少“]”(在“类型”的前面)
+d:\vs location\vs new project\project20\project20\text20.c(792): error C2133: “groupclick”: 未知的大小
+d:\vs location\vs new project\project20\project20\text20.c(792): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+d:\vs location\vs new project\project20\project20\text20.c(792): error C2059: 语法错误:“常数”
+d:\vs location\vs new project\project20\project20\text20.c(793): error C2059: 语法错误:“类型”
+d:\vs location\vs new project\project20\project20\text20.c(895): error C2059: 语法错误:“类型”
+d:\vs location\vs new project\project20\project20\text20.c(914): error C2059: 语法错误:“类型”
+d:\vs location\vs new project\project20\project20\text20.c(946): error C2059: 语法错误:“类型”
+d:\vs location\vs new project\project20\project20\text20.c(947): error C2059: 语法错误:“类型”
+d:\vs location\vs new project\project20\project20\text20.c(948): error C2059: 语法错误:“类型”
