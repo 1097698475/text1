@@ -1,0 +1,7 @@
+﻿  text29.cpp
+d:\vs location\vs new project\project29\project29\text29.cpp(6): warning C4101: “e”: 未引用的局部变量
+d:\vs location\vs new project\project29\project29\text29.cpp(6): warning C4101: “b”: 未引用的局部变量
+d:\vs location\vs new project\project29\project29\text29.cpp(6): warning C4101: “c”: 未引用的局部变量
+d:\vs location\vs new project\project29\project29\text29.cpp(6): warning C4101: “d”: 未引用的局部变量
+字符串逆序.obj : error LNK2005: _main 已经在 text29.obj 中定义
+D:\vs location\vs new project\project29\Debug\project29.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
