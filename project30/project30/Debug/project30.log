@@ -1,0 +1,4 @@
+﻿  text30.cpp
+d:\vs location\vs new project\project30\project30\text30.cpp(8): warning C4101: “a”: 未引用的局部变量
+d:\vs location\vs new project\project30\project30\text30.cpp(9): warning C4101: “max”: 未引用的局部变量
+  project30.vcxproj -> D:\vs location\vs new project\project30\Debug\project30.exe
