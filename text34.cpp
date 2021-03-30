@@ -59,20 +59,23 @@ void PrintFN(int m, int n)
 	for(int text=m;text<=n;text++)//从m开始，判断m是否是兔子数->有个循环
 	{
 		int a = begin;//让begin保持不变
-		do  //判断text是否兔子数，从arr[begin]开始判断（一开始一定小于
+		if (m != 1)
 		{
-			if (arr[a] == text)
+			do  //判断text是否兔子数，从arr[begin]开始判断（一开始一定小于
 			{
-				if (count == 1)
-					printf("%d", text);
-				else
-					printf(" %d", text);
-				flag = 0;
-				count++;
-				break;
-			}
-			a++;
-		} while (arr[a] <= text);
+				if (arr[a] == text)
+				{
+					if (count == 1)
+						printf("%d", text);
+					else
+						printf(" %d", text);
+					flag = 0;
+					count++;
+					break;
+				}
+				a++;
+			} while (arr[a] <= text);
+		}
 	}
 	if (flag)
 		printf("No Fibonacci number");
