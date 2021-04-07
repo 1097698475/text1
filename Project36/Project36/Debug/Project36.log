@@ -1,3 +1,0 @@
-﻿  text36.cpp
-text36.obj : error LNK2019: 无法解析的外部符号 "void __cdecl ReadString(char * const)" (?ReadString@@YAXQAD@Z)，该符号在函数 _main 中被引用
-D:\vs location\vs new project\Project36\Debug\Project36.exe : fatal error LNK1120: 1 个无法解析的外部命令
