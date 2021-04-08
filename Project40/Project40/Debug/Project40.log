@@ -1,0 +1,4 @@
+﻿  text40.c
+d:\vs location\vs new project\project40\project40\text40.c(24): warning C4010: 单行注释包含行继续符
+text40.obj : error LNK2019: 无法解析的外部符号 _ReadString，该符号在函数 _main 中被引用
+D:\vs location\vs new project\Project40\Debug\Project40.exe : fatal error LNK1120: 1 个无法解析的外部命令
