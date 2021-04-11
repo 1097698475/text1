@@ -1,0 +1,4 @@
+﻿  test42.c
+d:\vs location\vs new project\project42\project42\test42.c(21): warning C4101: “x”: 未引用的局部变量
+d:\vs location\vs new project\project42\project42\test42.c(31): warning C4715: “f”: 不是所有的控件路径都返回值
+  Project42.vcxproj -> D:\vs location\vs new project\Project42\Debug\Project42.exe
