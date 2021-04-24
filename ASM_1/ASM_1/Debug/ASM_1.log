@@ -1,0 +1,4 @@
+﻿  main.c
+d:\vs location\vs new project\asm_1\asm_1\main.c(15): warning C4013: “outputMenu”未定义；假设外部返回 int
+d:\vs location\vs new project\asm_1\asm_1\main.c(40): warning C4013: “system”未定义；假设外部返回 int
+  ASM_1.vcxproj -> D:\vs location\vs new project\ASM_1\Debug\ASM_1.exe
