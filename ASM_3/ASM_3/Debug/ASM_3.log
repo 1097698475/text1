@@ -1,0 +1,4 @@
+﻿  menu.c
+d:\vs location\vs new project\asm_3\asm_3\menu.c(70): warning C4028: 形参 1 与声明不同
+d:\vs location\vs new project\asm_3\asm_3\menu.c(103): warning C4133: “=”: 从“char *”到“Card *”的类型不兼容
+  ASM_3.vcxproj -> D:\vs location\vs new project\ASM_3\Debug\ASM_3.exe
