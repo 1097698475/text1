@@ -1,0 +1,8 @@
+﻿  Appset.cpp
+  Set.cpp
+d:\vs location\vs new project\4_28\4_28\set.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs location\vs new project\4_28\4_28\set.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs location\vs new project\4_28\4_28\set.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs location\vs new project\4_28\4_28\set.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  4_28.vcxproj -> D:\vs location\vs new project\4_28\Debug\4_28.exe
