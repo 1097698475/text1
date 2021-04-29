@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2005: _main 已经在 linklist_stu卡信息.obj 中定义
+D:\vs location\vs new project\ASM_4\Debug\ASM_4.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
