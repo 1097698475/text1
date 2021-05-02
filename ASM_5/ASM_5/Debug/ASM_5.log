@@ -1,0 +1,24 @@
+﻿  billing_file.c
+  billing_service.c
+  card_file.c
+  card_service.c
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\card_service.c(144): warning C4101: “billing”: 未引用的局部变量
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\card_service.c(170): warning C4101: “billing”: 未引用的局部变量
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\card_service.c(190): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\card_service.c(233): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\card_service.c(234): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\card_service.c(237): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\card_service.c(241): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  main.c
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\main.c(56): warning C4013: “system”未定义；假设外部返回 int
+  menu.c
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\menu.c(97): warning C4028: 形参 1 与声明不同
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\menu.c(153): warning C4133: “=”: 从“char *”到“Card *”的类型不兼容
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\menu.c(202): warning C4098: “master”:“void”函数返回值
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\menu.c(307): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“time_t”
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\menu.c(307): warning C4313: “printf”: 格式字符串中的“%s”与“time_t”类型的参数 4 冲突
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\menu.c(307): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 5 拥有了类型“time_t”
+c:\users\10976\desktop\计算机基础实验-曾谷濠\计算机基础实验-曾谷濠\曾谷濠_软件1801_0121810870704-6\menu.c(307): warning C4313: “printf”: 格式字符串中的“%s”与“time_t”类型的参数 5 冲突
+  tool.c
+  正在生成代码...
+  ASM_5.vcxproj -> D:\vs location\vs new project\ASM_5\Debug\ASM_5.exe
