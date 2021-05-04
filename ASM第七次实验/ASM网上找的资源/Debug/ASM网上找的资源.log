@@ -1,0 +1,23 @@
+﻿  billing_file.c
+  billing_service.c
+  card_file.c
+  card_service.c
+d:\vs location\vs new project\asm网上找的资源\asm网上找的资源\代码\card_service.c(218): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs location\vs new project\asm网上找的资源\asm网上找的资源\代码\card_service.c(238): warning C4013: “saveMoney”未定义；假设外部返回 int
+d:\vs location\vs new project\asm网上找的资源\asm网上找的资源\代码\card_service.c(383): warning C4033: “okalterpwd”必须返回值
+d:\vs location\vs new project\asm网上找的资源\asm网上找的资源\代码\card_service.c(387): warning C4033: “okalterpwd”必须返回值
+  main.c
+  menu.c
+d:\vs location\vs new project\asm网上找的资源\asm网上找的资源\代码\menu.c(94): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs location\vs new project\asm网上找的资源\asm网上找的资源\代码\menu.c(382): warning C4047: “函数”:“const char *”与“char (*)[18]”的间接级别不同
+d:\vs location\vs new project\asm网上找的资源\asm网上找的资源\代码\menu.c(382): warning C4024: “queryCard”: 形参和实参 1 的类型不同
+d:\vs location\vs new project\asm网上找的资源\asm网上找的资源\代码\menu.c(535): warning C4028: 形参 1 与声明不同
+  moneyfile.c
+  service.c
+d:\vs location\vs new project\asm网上找的资源\asm网上找的资源\代码\service.c(112): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vs location\vs new project\asm网上找的资源\asm网上找的资源\代码\service.c(116): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  test.c
+  tool.c
+  正在生成代码...
+d:\vs location\vs new project\asm网上找的资源\asm网上找的资源\代码\card_service.c(405): warning C4715: “okalterpwd”: 不是所有的控件路径都返回值
+  ASM网上找的资源.vcxproj -> D:\vs location\vs new project\ASM网上找的资源\Debug\ASM网上找的资源.exe
