@@ -1,0 +1,5 @@
+﻿  card_file.c
+d:\vs location\vs new project\ams2\ams2\card_file.c(30): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  d:\vs location\vs new project\ams2\ams2\card_file.c(30): note: 占位符和其参数预计 10 可变参数，但提供的却是 9 参数
+  d:\vs location\vs new project\ams2\ams2\card_file.c(30): note: 缺失的可变参数 10 为格式字符串“%d”所需
+  AMS2.vcxproj -> D:\vs location\vs new project\AMS2\Debug\AMS2.exe
