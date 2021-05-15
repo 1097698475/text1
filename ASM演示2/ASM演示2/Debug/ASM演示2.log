@@ -1,0 +1,6 @@
+﻿  menu.c
+c:\users\10976\desktop\计算机基础实验2\代码文件\代码\menu.c(94): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\10976\desktop\计算机基础实验2\代码文件\代码\menu.c(382): warning C4047: “函数”:“const char *”与“char (*)[18]”的间接级别不同
+c:\users\10976\desktop\计算机基础实验2\代码文件\代码\menu.c(382): warning C4024: “queryCard”: 形参和实参 1 的类型不同
+c:\users\10976\desktop\计算机基础实验2\代码文件\代码\menu.c(535): warning C4028: 形参 1 与声明不同
+  ASM演示2.vcxproj -> D:\vs location\vs new project\ASM演示2\Debug\ASM演示2.exe

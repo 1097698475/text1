@@ -1,0 +1,23 @@
+﻿  billing_file.c
+  billing_service.c
+  card_file.c
+  card_service.c
+c:\users\10976\desktop\计算机基础实验-郑东奇\计算机基础实验-郑东奇\郑东奇_机电类2007_0122004950704-7\card_service.c(219): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\10976\desktop\计算机基础实验-郑东奇\计算机基础实验-郑东奇\郑东奇_机电类2007_0122004950704-7\card_service.c(239): warning C4013: “saveMoney”未定义；假设外部返回 int
+c:\users\10976\desktop\计算机基础实验-郑东奇\计算机基础实验-郑东奇\郑东奇_机电类2007_0122004950704-7\card_service.c(384): warning C4033: “okalterpwd”必须返回值
+c:\users\10976\desktop\计算机基础实验-郑东奇\计算机基础实验-郑东奇\郑东奇_机电类2007_0122004950704-7\card_service.c(388): warning C4033: “okalterpwd”必须返回值
+  main.c
+  menu.c
+c:\users\10976\desktop\计算机基础实验-郑东奇\计算机基础实验-郑东奇\郑东奇_机电类2007_0122004950704-7\menu.c(94): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\10976\desktop\计算机基础实验-郑东奇\计算机基础实验-郑东奇\郑东奇_机电类2007_0122004950704-7\menu.c(383): warning C4047: “函数”:“const char *”与“char (*)[18]”的间接级别不同
+c:\users\10976\desktop\计算机基础实验-郑东奇\计算机基础实验-郑东奇\郑东奇_机电类2007_0122004950704-7\menu.c(383): warning C4024: “queryCard”: 形参和实参 1 的类型不同
+c:\users\10976\desktop\计算机基础实验-郑东奇\计算机基础实验-郑东奇\郑东奇_机电类2007_0122004950704-7\menu.c(536): warning C4028: 形参 1 与声明不同
+  moneyfile.c
+  service.c
+c:\users\10976\desktop\计算机基础实验-郑东奇\计算机基础实验-郑东奇\郑东奇_机电类2007_0122004950704-7\service.c(112): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\10976\desktop\计算机基础实验-郑东奇\计算机基础实验-郑东奇\郑东奇_机电类2007_0122004950704-7\service.c(116): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  test.c
+  tool.c
+  正在生成代码...
+c:\users\10976\desktop\计算机基础实验-郑东奇\计算机基础实验-郑东奇\郑东奇_机电类2007_0122004950704-7\card_service.c(406): warning C4715: “okalterpwd”: 不是所有的控件路径都返回值
+  ASM演示.vcxproj -> D:\vs location\vs new project\ASM演示\Debug\ASM演示.exe
